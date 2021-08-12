@@ -1,0 +1,22 @@
+{
+  "name": "shadowzard",
+  "version": "1.0.0",
+  "description": "Add show to images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharayu134/shadowzard.git"
+  },
+  "keywords": [
+    "shadow"
+  ],
+  "author": "Sharayu Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharayu134/shadowzard/issues"
+  },
+  "homepage": "https://github.com/sharayu134/shadowzard#readme"
+}
