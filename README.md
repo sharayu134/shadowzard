@@ -5,9 +5,9 @@ npm package to add shadow and padding to images.
 `npm i shadowzard --save`
 
 
-```import { shadowizard } from 'shadowizardy';
+```import { shadowzard } from 'shadowzardy';
 
-shadowizard({
+shadowzard({
     shadow_type: 'soft',
     padding: false
 });
